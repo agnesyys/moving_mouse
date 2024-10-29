@@ -31,7 +31,6 @@
 ## Game Instructions
 1. Use the keyboard to control the two characters, collaborating to avoid obstacles and reach the level checkpoint.
 2. Work together to collect objects throughout each level to unlock new areas and gain points.
-3. Track lives in the display box—remember, both players share three lives per level.
 
 ## Future Development
 - Additional levels with increased difficulty
